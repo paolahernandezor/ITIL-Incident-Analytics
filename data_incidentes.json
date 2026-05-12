@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "INC-1001",
+    "fecha": "2026-04-20",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 40.1,
+    "costo_reparacion": 269,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1002",
+    "fecha": "2026-04-04",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 24,
+    "costo_reparacion": 346,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1003",
+    "fecha": "2026-04-08",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 33.4,
+    "costo_reparacion": 125,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1004",
+    "fecha": "2026-04-18",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 8.5,
+    "costo_reparacion": 498,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1005",
+    "fecha": "2026-04-25",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2,
+    "costo_reparacion": 498,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1006",
+    "fecha": "2026-04-17",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 10.1,
+    "costo_reparacion": 411,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1007",
+    "fecha": "2026-04-04",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.6,
+    "costo_reparacion": 176,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1008",
+    "fecha": "2026-04-10",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.2,
+    "costo_reparacion": 477,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1009",
+    "fecha": "2026-04-08",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 15.1,
+    "costo_reparacion": 526,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1010",
+    "fecha": "2026-04-13",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 8.5,
+    "costo_reparacion": 529,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1011",
+    "fecha": "2026-04-25",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 37.6,
+    "costo_reparacion": 536,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1012",
+    "fecha": "2026-04-29",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.3,
+    "costo_reparacion": 338,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1013",
+    "fecha": "2026-04-22",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 8.5,
+    "costo_reparacion": 472,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1014",
+    "fecha": "2026-04-03",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 45.8,
+    "costo_reparacion": 93,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1015",
+    "fecha": "2026-04-13",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.6,
+    "costo_reparacion": 117,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1016",
+    "fecha": "2026-04-28",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.9,
+    "costo_reparacion": 408,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1017",
+    "fecha": "2026-04-24",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.7,
+    "costo_reparacion": 210,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1018",
+    "fecha": "2026-04-27",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 26.6,
+    "costo_reparacion": 180,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1019",
+    "fecha": "2026-04-03",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 45.3,
+    "costo_reparacion": 325,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1020",
+    "fecha": "2026-04-27",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 26.7,
+    "costo_reparacion": 220,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1021",
+    "fecha": "2026-04-19",
+    "categoria": "Seguridad",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 43.7,
+    "costo_reparacion": 402,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1022",
+    "fecha": "2026-04-21",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 1.8,
+    "costo_reparacion": 432,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1023",
+    "fecha": "2026-04-05",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.2,
+    "costo_reparacion": 528,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1024",
+    "fecha": "2026-04-14",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 32.7,
+    "costo_reparacion": 522,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1025",
+    "fecha": "2026-04-10",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 26.3,
+    "costo_reparacion": 438,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1026",
+    "fecha": "2026-04-07",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 18.4,
+    "costo_reparacion": 109,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1027",
+    "fecha": "2026-04-24",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 30.1,
+    "costo_reparacion": 104,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1028",
+    "fecha": "2026-04-16",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 19.7,
+    "costo_reparacion": 237,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1029",
+    "fecha": "2026-04-10",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 12.3,
+    "costo_reparacion": 65,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1030",
+    "fecha": "2026-04-13",
+    "categoria": "Hardware",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.9,
+    "costo_reparacion": 137,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1031",
+    "fecha": "2026-04-13",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 37.5,
+    "costo_reparacion": 213,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1032",
+    "fecha": "2026-04-03",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 40.5,
+    "costo_reparacion": 408,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1033",
+    "fecha": "2026-04-30",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 42.8,
+    "costo_reparacion": 310,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1034",
+    "fecha": "2026-04-14",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.6,
+    "costo_reparacion": 266,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1035",
+    "fecha": "2026-04-19",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 40.3,
+    "costo_reparacion": 468,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1036",
+    "fecha": "2026-04-28",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 36.8,
+    "costo_reparacion": 537,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1037",
+    "fecha": "2026-04-15",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 21,
+    "costo_reparacion": 206,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1038",
+    "fecha": "2026-04-27",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 12.4,
+    "costo_reparacion": 326,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1039",
+    "fecha": "2026-04-01",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 28.3,
+    "costo_reparacion": 361,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1040",
+    "fecha": "2026-04-22",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 7.1,
+    "costo_reparacion": 243,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1041",
+    "fecha": "2026-04-23",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.9,
+    "costo_reparacion": 185,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1042",
+    "fecha": "2026-04-06",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 17.6,
+    "costo_reparacion": 195,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1043",
+    "fecha": "2026-04-06",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 24.7,
+    "costo_reparacion": 184,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1044",
+    "fecha": "2026-04-27",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 16.4,
+    "costo_reparacion": 260,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1045",
+    "fecha": "2026-04-29",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 33.1,
+    "costo_reparacion": 110,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1046",
+    "fecha": "2026-04-25",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 38.5,
+    "costo_reparacion": 357,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1047",
+    "fecha": "2026-04-08",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3,
+    "costo_reparacion": 411,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1048",
+    "fecha": "2026-04-11",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 47.3,
+    "costo_reparacion": 228,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1049",
+    "fecha": "2026-04-09",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 37.5,
+    "costo_reparacion": 417,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1050",
+    "fecha": "2026-04-28",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 21.5,
+    "costo_reparacion": 317,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1051",
+    "fecha": "2026-04-11",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 40.3,
+    "costo_reparacion": 439,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1052",
+    "fecha": "2026-04-12",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 6.6,
+    "costo_reparacion": 417,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1053",
+    "fecha": "2026-04-19",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 34.4,
+    "costo_reparacion": 547,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1054",
+    "fecha": "2026-04-04",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.7,
+    "costo_reparacion": 460,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1055",
+    "fecha": "2026-04-14",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 3.2,
+    "costo_reparacion": 483,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1056",
+    "fecha": "2026-04-11",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.3,
+    "costo_reparacion": 400,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1057",
+    "fecha": "2026-04-06",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 0.7,
+    "costo_reparacion": 483,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1058",
+    "fecha": "2026-04-28",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 25.7,
+    "costo_reparacion": 424,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1059",
+    "fecha": "2026-04-01",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.4,
+    "costo_reparacion": 279,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1060",
+    "fecha": "2026-04-07",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 22.3,
+    "costo_reparacion": 430,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1061",
+    "fecha": "2026-04-07",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.1,
+    "costo_reparacion": 214,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1062",
+    "fecha": "2026-04-20",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 35,
+    "costo_reparacion": 329,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1063",
+    "fecha": "2026-04-20",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.2,
+    "costo_reparacion": 228,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1064",
+    "fecha": "2026-04-23",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.2,
+    "costo_reparacion": 270,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1065",
+    "fecha": "2026-04-13",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.9,
+    "costo_reparacion": 489,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1066",
+    "fecha": "2026-04-23",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 34.3,
+    "costo_reparacion": 258,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1067",
+    "fecha": "2026-04-06",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 15.1,
+    "costo_reparacion": 227,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1068",
+    "fecha": "2026-04-16",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.9,
+    "costo_reparacion": 216,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1069",
+    "fecha": "2026-04-14",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 8.3,
+    "costo_reparacion": 487,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1070",
+    "fecha": "2026-04-10",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 17.4,
+    "costo_reparacion": 388,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1071",
+    "fecha": "2026-04-02",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 9.7,
+    "costo_reparacion": 153,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1072",
+    "fecha": "2026-04-04",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.8,
+    "costo_reparacion": 108,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1073",
+    "fecha": "2026-04-28",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 11.2,
+    "costo_reparacion": 541,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1074",
+    "fecha": "2026-04-17",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 10.2,
+    "costo_reparacion": 520,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1075",
+    "fecha": "2026-04-10",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 0.5,
+    "costo_reparacion": 530,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1076",
+    "fecha": "2026-04-17",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 25,
+    "costo_reparacion": 180,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1077",
+    "fecha": "2026-04-13",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 7.2,
+    "costo_reparacion": 165,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1078",
+    "fecha": "2026-04-04",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 43.6,
+    "costo_reparacion": 243,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1079",
+    "fecha": "2026-04-15",
+    "categoria": "Seguridad",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 28.3,
+    "costo_reparacion": 80,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1080",
+    "fecha": "2026-04-24",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 9.3,
+    "costo_reparacion": 137,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1081",
+    "fecha": "2026-04-18",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 24.9,
+    "costo_reparacion": 227,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1082",
+    "fecha": "2026-04-20",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 42.7,
+    "costo_reparacion": 459,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1083",
+    "fecha": "2026-04-27",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 4.9,
+    "costo_reparacion": 264,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1084",
+    "fecha": "2026-04-12",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.4,
+    "costo_reparacion": 398,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1085",
+    "fecha": "2026-04-16",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 14.7,
+    "costo_reparacion": 360,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1086",
+    "fecha": "2026-04-21",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 40,
+    "costo_reparacion": 274,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1087",
+    "fecha": "2026-04-25",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 35,
+    "costo_reparacion": 78,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1088",
+    "fecha": "2026-04-03",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 2.1,
+    "costo_reparacion": 477,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1089",
+    "fecha": "2026-04-24",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 25.7,
+    "costo_reparacion": 437,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1090",
+    "fecha": "2026-04-23",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 27.6,
+    "costo_reparacion": 205,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1091",
+    "fecha": "2026-04-10",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.8,
+    "costo_reparacion": 161,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1092",
+    "fecha": "2026-04-18",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.3,
+    "costo_reparacion": 124,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1093",
+    "fecha": "2026-04-20",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 38,
+    "costo_reparacion": 51,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1094",
+    "fecha": "2026-04-03",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 12.2,
+    "costo_reparacion": 111,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1095",
+    "fecha": "2026-04-16",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 9.9,
+    "costo_reparacion": 441,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1096",
+    "fecha": "2026-04-05",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.5,
+    "costo_reparacion": 159,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1097",
+    "fecha": "2026-04-08",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 36.4,
+    "costo_reparacion": 522,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1098",
+    "fecha": "2026-04-01",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 36.8,
+    "costo_reparacion": 314,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1099",
+    "fecha": "2026-04-16",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.5,
+    "costo_reparacion": 54,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1100",
+    "fecha": "2026-04-11",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 44.6,
+    "costo_reparacion": 128,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1101",
+    "fecha": "2026-04-22",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 40.7,
+    "costo_reparacion": 471,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1102",
+    "fecha": "2026-04-05",
+    "categoria": "Hardware",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.7,
+    "costo_reparacion": 343,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1103",
+    "fecha": "2026-04-30",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 25.8,
+    "costo_reparacion": 253,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1104",
+    "fecha": "2026-04-26",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 37.9,
+    "costo_reparacion": 68,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1105",
+    "fecha": "2026-04-18",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 5.3,
+    "costo_reparacion": 428,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1106",
+    "fecha": "2026-04-18",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.3,
+    "costo_reparacion": 527,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1107",
+    "fecha": "2026-04-07",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 21.7,
+    "costo_reparacion": 377,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1108",
+    "fecha": "2026-04-19",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 22.7,
+    "costo_reparacion": 490,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1109",
+    "fecha": "2026-04-21",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 1.9,
+    "costo_reparacion": 393,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1110",
+    "fecha": "2026-04-23",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.3,
+    "costo_reparacion": 232,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1111",
+    "fecha": "2026-04-27",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 1.6,
+    "costo_reparacion": 226,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1112",
+    "fecha": "2026-04-18",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 47,
+    "costo_reparacion": 378,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1113",
+    "fecha": "2026-04-26",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 45.2,
+    "costo_reparacion": 192,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1114",
+    "fecha": "2026-04-14",
+    "categoria": "Hardware",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.5,
+    "costo_reparacion": 267,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1115",
+    "fecha": "2026-04-10",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 26.3,
+    "costo_reparacion": 392,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1116",
+    "fecha": "2026-04-19",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.4,
+    "costo_reparacion": 505,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1117",
+    "fecha": "2026-04-18",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.9,
+    "costo_reparacion": 313,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1118",
+    "fecha": "2026-04-28",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.3,
+    "costo_reparacion": 265,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1119",
+    "fecha": "2026-04-17",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 8.2,
+    "costo_reparacion": 449,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1120",
+    "fecha": "2026-04-26",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 2.3,
+    "costo_reparacion": 198,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1121",
+    "fecha": "2026-04-26",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.2,
+    "costo_reparacion": 388,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1122",
+    "fecha": "2026-04-06",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 27.8,
+    "costo_reparacion": 473,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1123",
+    "fecha": "2026-04-20",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 28.8,
+    "costo_reparacion": 300,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1124",
+    "fecha": "2026-04-07",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 28.5,
+    "costo_reparacion": 274,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1125",
+    "fecha": "2026-04-07",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.8,
+    "costo_reparacion": 198,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1126",
+    "fecha": "2026-04-23",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.7,
+    "costo_reparacion": 360,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1127",
+    "fecha": "2026-04-30",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 3.1,
+    "costo_reparacion": 367,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1128",
+    "fecha": "2026-04-21",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 28.6,
+    "costo_reparacion": 303,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1129",
+    "fecha": "2026-04-26",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 25.8,
+    "costo_reparacion": 514,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1130",
+    "fecha": "2026-04-04",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 44.5,
+    "costo_reparacion": 138,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1131",
+    "fecha": "2026-04-02",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 37,
+    "costo_reparacion": 296,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1132",
+    "fecha": "2026-04-01",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.1,
+    "costo_reparacion": 520,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1133",
+    "fecha": "2026-04-08",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 31.2,
+    "costo_reparacion": 405,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1134",
+    "fecha": "2026-04-29",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 10.4,
+    "costo_reparacion": 73,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1135",
+    "fecha": "2026-04-19",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 21.9,
+    "costo_reparacion": 116,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1136",
+    "fecha": "2026-04-25",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 27.5,
+    "costo_reparacion": 343,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1137",
+    "fecha": "2026-04-14",
+    "categoria": "Redes",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 27.8,
+    "costo_reparacion": 254,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1138",
+    "fecha": "2026-04-27",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 25.9,
+    "costo_reparacion": 500,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1139",
+    "fecha": "2026-04-16",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1,
+    "costo_reparacion": 372,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1140",
+    "fecha": "2026-04-26",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 35.6,
+    "costo_reparacion": 514,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1141",
+    "fecha": "2026-04-25",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 0.9,
+    "costo_reparacion": 87,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1142",
+    "fecha": "2026-04-27",
+    "categoria": "Seguridad",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 25.4,
+    "costo_reparacion": 342,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1143",
+    "fecha": "2026-04-20",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 17.8,
+    "costo_reparacion": 194,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1144",
+    "fecha": "2026-04-15",
+    "categoria": "Hardware",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.7,
+    "costo_reparacion": 268,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1145",
+    "fecha": "2026-04-10",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 21.9,
+    "costo_reparacion": 528,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1146",
+    "fecha": "2026-04-18",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.8,
+    "costo_reparacion": 259,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1147",
+    "fecha": "2026-04-30",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 44.9,
+    "costo_reparacion": 517,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1148",
+    "fecha": "2026-04-05",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 13.8,
+    "costo_reparacion": 237,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1149",
+    "fecha": "2026-04-07",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 16.7,
+    "costo_reparacion": 292,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1150",
+    "fecha": "2026-04-18",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 27.3,
+    "costo_reparacion": 179,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1151",
+    "fecha": "2026-04-10",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 18.8,
+    "costo_reparacion": 406,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1152",
+    "fecha": "2026-04-08",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.8,
+    "costo_reparacion": 375,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1153",
+    "fecha": "2026-04-13",
+    "categoria": "Seguridad",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 45.4,
+    "costo_reparacion": 508,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1154",
+    "fecha": "2026-04-24",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 27.6,
+    "costo_reparacion": 354,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1155",
+    "fecha": "2026-04-08",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 3.5,
+    "costo_reparacion": 340,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1156",
+    "fecha": "2026-04-12",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 30.4,
+    "costo_reparacion": 234,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1157",
+    "fecha": "2026-04-20",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 4.5,
+    "costo_reparacion": 512,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1158",
+    "fecha": "2026-04-07",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 41.9,
+    "costo_reparacion": 71,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1159",
+    "fecha": "2026-04-15",
+    "categoria": "Base de Datos",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 38.5,
+    "costo_reparacion": 446,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1160",
+    "fecha": "2026-04-05",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 2.2,
+    "costo_reparacion": 347,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1161",
+    "fecha": "2026-04-12",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 24.3,
+    "costo_reparacion": 375,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1162",
+    "fecha": "2026-04-13",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 15.1,
+    "costo_reparacion": 93,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1163",
+    "fecha": "2026-04-14",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 5.3,
+    "costo_reparacion": 534,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1164",
+    "fecha": "2026-04-17",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 27.1,
+    "costo_reparacion": 97,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1165",
+    "fecha": "2026-04-25",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 45.7,
+    "costo_reparacion": 82,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1166",
+    "fecha": "2026-04-08",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.6,
+    "costo_reparacion": 313,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1167",
+    "fecha": "2026-04-23",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 43.4,
+    "costo_reparacion": 344,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1168",
+    "fecha": "2026-04-15",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 13.1,
+    "costo_reparacion": 465,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1169",
+    "fecha": "2026-04-21",
+    "categoria": "Redes",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 7.6,
+    "costo_reparacion": 331,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1170",
+    "fecha": "2026-04-22",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 47.2,
+    "costo_reparacion": 532,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1171",
+    "fecha": "2026-04-04",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3,
+    "costo_reparacion": 322,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1172",
+    "fecha": "2026-04-23",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 31.5,
+    "costo_reparacion": 467,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1173",
+    "fecha": "2026-04-19",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 35.3,
+    "costo_reparacion": 262,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1174",
+    "fecha": "2026-04-14",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 2.2,
+    "costo_reparacion": 67,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1175",
+    "fecha": "2026-04-14",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 40.9,
+    "costo_reparacion": 469,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1176",
+    "fecha": "2026-04-29",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.1,
+    "costo_reparacion": 210,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1177",
+    "fecha": "2026-04-04",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 22,
+    "costo_reparacion": 252,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1178",
+    "fecha": "2026-04-16",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 43.1,
+    "costo_reparacion": 251,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1179",
+    "fecha": "2026-04-29",
+    "categoria": "Redes",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 3.4,
+    "costo_reparacion": 142,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1180",
+    "fecha": "2026-04-28",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 27.2,
+    "costo_reparacion": 172,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1181",
+    "fecha": "2026-04-25",
+    "categoria": "Software",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.3,
+    "costo_reparacion": 418,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1182",
+    "fecha": "2026-04-09",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 6.4,
+    "costo_reparacion": 233,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1183",
+    "fecha": "2026-04-23",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 0.4,
+    "costo_reparacion": 186,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1184",
+    "fecha": "2026-04-01",
+    "categoria": "Seguridad",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 19.1,
+    "costo_reparacion": 149,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1185",
+    "fecha": "2026-04-19",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 46.7,
+    "costo_reparacion": 254,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1186",
+    "fecha": "2026-04-27",
+    "categoria": "Seguridad",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 38.4,
+    "costo_reparacion": 193,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1187",
+    "fecha": "2026-04-09",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 30.6,
+    "costo_reparacion": 433,
+    "satisfaccion_cliente": 5
+  },
+  {
+    "id": "INC-1188",
+    "fecha": "2026-04-11",
+    "categoria": "Hardware",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 25.7,
+    "costo_reparacion": 274,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1189",
+    "fecha": "2026-04-04",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 13.2,
+    "costo_reparacion": 288,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1190",
+    "fecha": "2026-04-05",
+    "categoria": "Software",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 24.6,
+    "costo_reparacion": 78,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1191",
+    "fecha": "2026-04-02",
+    "categoria": "Hardware",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 17.7,
+    "costo_reparacion": 456,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1192",
+    "fecha": "2026-04-24",
+    "categoria": "Hardware",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 1.4,
+    "costo_reparacion": 394,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1193",
+    "fecha": "2026-04-16",
+    "categoria": "Hardware",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 3.6,
+    "costo_reparacion": 519,
+    "satisfaccion_cliente": 3
+  },
+  {
+    "id": "INC-1194",
+    "fecha": "2026-04-13",
+    "categoria": "Base de Datos",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 25.3,
+    "costo_reparacion": 469,
+    "satisfaccion_cliente": 1
+  },
+  {
+    "id": "INC-1195",
+    "fecha": "2026-04-12",
+    "categoria": "Seguridad",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.8,
+    "costo_reparacion": 63,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1196",
+    "fecha": "2026-04-08",
+    "categoria": "Software",
+    "prioridad": "Alta",
+    "tiempo_resolucion_hrs": 37.8,
+    "costo_reparacion": 474,
+    "satisfaccion_cliente": 2
+  },
+  {
+    "id": "INC-1197",
+    "fecha": "2026-04-18",
+    "categoria": "Base de Datos",
+    "prioridad": "Baja",
+    "tiempo_resolucion_hrs": 41.6,
+    "costo_reparacion": 60,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1198",
+    "fecha": "2026-04-27",
+    "categoria": "Base de Datos",
+    "prioridad": "Critica",
+    "tiempo_resolucion_hrs": 2.6,
+    "costo_reparacion": 353,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1199",
+    "fecha": "2026-04-19",
+    "categoria": "Redes",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 44.8,
+    "costo_reparacion": 529,
+    "satisfaccion_cliente": 4
+  },
+  {
+    "id": "INC-1200",
+    "fecha": "2026-04-06",
+    "categoria": "Software",
+    "prioridad": "Media",
+    "tiempo_resolucion_hrs": 28.3,
+    "costo_reparacion": 344,
+    "satisfaccion_cliente": 1
+  }
+]
